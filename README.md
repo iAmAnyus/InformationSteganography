@@ -1,2 +1,3 @@
 # InformationSteganography
-## Grammar steganography and analysis
+Grammar steganography and analysis
+
